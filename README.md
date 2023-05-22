@@ -1,5 +1,5 @@
 # Tunecommerce-frontend
-### Repositorio: [Tunecommerce Backend]((https://github.com/NicoFJCruz/Tunecommerce-backend)
+### Repositorio: [Tunecommerce Backend](https://github.com/NicoFJCruz/Tunecommerce-backend)
 Repositorio del Equipo 4 - Tunecommerce-frontend
 
 Tunecommerce-frontend
